@@ -1,1 +1,1 @@
-Hello, remote repo!
+Hello, origin repo!
